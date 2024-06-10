@@ -23,3 +23,8 @@ Tecnologias e Ferramentas de trabalho:
 - **Frameworks**: Flask
 - **Banco de Dados**: MySQL
 - **Ferramentas**: Git, GitHub, VS Code
+
+## Vamos nos conectar
+
+- [LinkedIn](https://www.linkedin.com/in/cesaroliveira-python/)
+- [Email](mailto:cesaraleoliveira@gmail.com)
