@@ -32,8 +32,4 @@ Tecnologias e Ferramentas de trabalho:
 
 ## Estatísticas do GitHub
 
-## Estatísticas do GitHub
-
-![CesarOli's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarOli&show_icons=true&theme=radical&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarOli&layout=compact&theme=radical&langs_count=10&hide=html,css,java)
