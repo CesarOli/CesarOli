@@ -28,3 +28,9 @@ Tecnologias e Ferramentas de trabalho:
 
 - [LinkedIn](https://www.linkedin.com/in/cesaroliveira-python/)
 - [Email](mailto:cesaraleoliveira@gmail.com)
+
+
+## Estatísticas do GitHub
+
+![CesarOli's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarOli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarOli&layout=compact&theme=radical)
