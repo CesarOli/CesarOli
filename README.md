@@ -3,7 +3,9 @@ César Oliveira
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CesarOli&color=brightgreen)
 
-Bem-vindo ao meu perfil no GitHub! Sou César Oliveira e uso a linguagem Python como ferramenta para exercícios de lógica, desenvolvimento de códigos e em um futuro próximo resolver problemas diários.
+Bem-vindo ao meu perfil no GitHub! 
+
+Sou César Oliveira e uso a linguagem Python como ferramenta para exercícios de lógica, desenvolvimento de códigos e em um futuro próximo resolver problemas diários reais, meu principal objetivo atual é ser parte integrante de um time de desenvolvimento backend e trabalhar com pessoas incríveis.
 
 ## Sobre Mim
 Sou formado em Gestão Financeira pela Uninove e em Análise e Desenvolvimento de Sistemas pela FAM. Foco no desenvolvimento de projetos web com ferramentas modernas, especialmente usando Python. Completei o curso AWS re/start pela Escola da Nuvem, adquirindo conhecimentos sobre computação em nuvem, serviços da AWS e automação, além de experiência com sistemas operacionais Linux.
