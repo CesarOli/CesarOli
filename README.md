@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 
 Bem-vindo ao meu perfil aqui no GitHub! 
