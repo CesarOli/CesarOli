@@ -4,6 +4,9 @@
 Bem-vindo ao meu perfil aqui no GitHub! 
 
 
+
+
+
 ## Tecnologias e Ferramentas
 
 Tecnologias e Ferramentas de trabalho:
@@ -18,6 +21,3 @@ Tecnologias e Ferramentas de trabalho:
 - [Email](mailto:cesaraleoliveira@gmail.com)
 
 
-## Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarOli&layout=compact&theme=radical&langs_count=10&hide=html,css,java)
